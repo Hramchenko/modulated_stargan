@@ -2,9 +2,9 @@
 
 ![logo](data/compose.jpg)
 
-This is a StarGAN V2 modification with Modulated Convolution layers.
+Experiments on replacing Adaptive Instance Normalization(AdaIN) layers in __StarGAN V2__ model and train it on images with a resolution 512x512 pixels.
 
-For more information about the model see [Modifying StarGAN V2 using Modulated Convolutions](https://v-hramchenko.medium.com/modifying-stargan-v2-using-modulated-convolutions-13dc5796cd6e).
+For more information see [Modifying StarGAN V2 using Modulated Convolutions](https://v-hramchenko.medium.com/modifying-stargan-v2-using-modulated-convolutions-13dc5796cd6e).
 
 
 
