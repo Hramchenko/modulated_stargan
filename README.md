@@ -17,6 +17,13 @@ For images generation:
 
 For images generation see train_colab.ipynb file.
 
-
+## Requirements
+* python;
+* pytorch 1.6;
+* torchvision;
+* opencv;
+* munch;
+* kornia;
+* ffmpeg.
 
 
