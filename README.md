@@ -19,7 +19,7 @@ For images generation see train_colab.ipynb file.
 
 ## Requirements
 * python;
-* pytorch 1.6;
+* pytorch;
 * torchvision;
 * opencv;
 * munch;
